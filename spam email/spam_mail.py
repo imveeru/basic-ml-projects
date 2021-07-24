@@ -21,7 +21,10 @@ test_df=pd.read_csv('test_features.csv')
 train_df=train_df.drop('Id',axis=1)
 test_df=test_df.drop('Id',axis=1)
 
-X_train=
+X=np.asanyarray(train_df.drop('ham',axis=1))
+y=np.asanyarray(train_df['ham'])
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=50)
 
 nb = NaiveBayes()
 nb.fit(X_train, y_train)
