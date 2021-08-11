@@ -37,3 +37,9 @@ Name  | Accuracy Score
 Name  | Accuracy Score
 ------------- | -------------
 [Titanic](https://github.com/imveeru/basic-ml-projects/tree/main/titanic)  | 85.47
+
+- Classification with Keras
+
+Name  | Accuracy Score
+------------- | -------------
+[Mushroom](https://github.com/imveeru/basic-ml-projects/tree/main/mushroom)  | 100
