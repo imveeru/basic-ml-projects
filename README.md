@@ -37,9 +37,16 @@ Name  | Accuracy Score
 Name  | Accuracy Score
 ------------- | -------------
 [Titanic](https://github.com/imveeru/basic-ml-projects/tree/main/titanic)  | 85.47
+[Heart Attack](https://github.com/imveeru/basic-ml-projects/tree/main/heart%20attack)  | 85.24
 
 - Classification with Keras
 
 Name  | Accuracy Score
 ------------- | -------------
 [Mushroom](https://github.com/imveeru/basic-ml-projects/tree/main/mushroom)  | 100
+
+- Regression with Keras
+
+Name  | Accuracy Score
+------------- | -------------
+[Concrete Strength](https://github.com/imveeru/basic-ml-projects/tree/main/concrete%20strength)  | 27.24(SD)
