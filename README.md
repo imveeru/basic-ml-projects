@@ -47,6 +47,6 @@ Name  | Accuracy Score
 
 - Regression with Keras
 
-Name  | Accuracy Score
+Name  | Standard Deviation
 ------------- | -------------
-[Concrete Strength](https://github.com/imveeru/basic-ml-projects/tree/main/concrete%20strength)  | 27.24(SD)
+[Concrete Strength](https://github.com/imveeru/basic-ml-projects/tree/main/concrete%20strength)  | 27.24
